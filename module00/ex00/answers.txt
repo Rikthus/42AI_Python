@@ -1,0 +1,4 @@
+pip list
+conda info numpy
+conda remove numpy
+conda install numpy
